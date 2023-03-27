@@ -1,0 +1,8 @@
+<html>
+    <head>
+        <body>
+            <title>MY BIODATA</title>
+        </body>
+        <form action = "coba.php" method=" POST" ></form>
+    </head>
+</html>
